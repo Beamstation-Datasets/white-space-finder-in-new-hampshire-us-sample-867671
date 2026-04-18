@@ -9,9 +9,9 @@
 | Dataset ID | `867671` |
 | Location | New Hampshire |
 | Category | Restaurants |
-| Full dataset size | 42 records |
-| Free sample size | 5 records (11.9%) |
-| Last export | 2026-03-31T23:02:23.038978+00:00 |
+| Full dataset size | 50 records |
+| Free sample size | 5 records (10.0%) |
+| Last export | 2026-04-15T00:38:57.800568+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-new-hampshire-us-sample-867671/releases/download/sample-latest/beamstation_867671_food_and_drink-us-nh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
