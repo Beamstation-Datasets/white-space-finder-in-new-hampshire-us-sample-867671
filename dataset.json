@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in New Hampshire that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in New Hampshire, US",
-  "export_job_id": "956de46e-77ec-4ae2-bc0c-91776c1b8456",
+  "export_job_id": "8d40422f-c684-4ffd-adf1-3fdfb218c013",
   "github_org": "Beamstation-Datasets",
   "id_short": 867671,
   "location_name": "New Hampshire",
   "location_type": "state",
   "repo_name": "white-space-finder-in-new-hampshire-us-sample-867671",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/867671/beamstation_867671_food_and_drink-us-nh_SAMPLE_DIST.csv",
-  "sample_pct": 11.9,
+  "sample_pct": 10.0,
   "sample_records": 5,
   "sample_sha256": "0ad0a8bab7fa2cf2e4009d502a40722cbb9edad4286e138111cb824ef1960629",
   "sample_size_bytes": 34177,
-  "total_records": 42,
-  "updated_at": "2026-03-31T23:02:23.038978+00:00"
+  "total_records": 50,
+  "updated_at": "2026-04-15T00:38:57.800568+00:00"
 }
