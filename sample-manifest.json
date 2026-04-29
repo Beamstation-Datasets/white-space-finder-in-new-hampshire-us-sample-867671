@@ -1,12 +1,12 @@
 {
-  "export_job_id": "966ba78a-2005-4360-9158-22a04f9e3734",
+  "export_job_id": "cce5886c-6e59-4d1a-868b-fed18adb261c",
   "id_short": 867671,
-  "published_at": "2026-04-22T19:04:39Z",
+  "published_at": "2026-04-29T19:11:16Z",
   "repo_name": "white-space-finder-in-new-hampshire-us-sample-867671",
   "sample_asset_name": "beamstation_867671_food_and_drink-us-nh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/867671/beamstation_867671_food_and_drink-us-nh_SAMPLE_DIST.csv",
-  "sample_records": 8,
-  "sample_sha256": "42839ce7f2f48947352421bf0a24de3525ec57f0c050f2ed36fddbd06f444e6a",
-  "sample_size_bytes": 45275,
-  "total_records": 84
+  "sample_records": 9,
+  "sample_sha256": "43adcf8a2db2b62ba84f45bc8dab286391b2a0482ce4c93794f9d89c50c5af77",
+  "sample_size_bytes": 47335,
+  "total_records": 92
 }
